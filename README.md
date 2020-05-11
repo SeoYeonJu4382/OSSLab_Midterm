@@ -1,3 +1,4 @@
 # Header
-* ÏThis is text practice*## Heading 
+*This is text practice*
+## Heading 
 ### Heading 2
